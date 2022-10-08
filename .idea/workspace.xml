@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aea3f78c-77df-4cd0-8a44-477376f760bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ak.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NameList/NameList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NameList/NameList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NameList/NameListItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NameList/a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navBar/NavBar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="aea3f78c-77df-4cd0-8a44-477376f760bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +67,7 @@
       <workItem from="1664794574953" duration="174000" />
       <workItem from="1664799835600" duration="51028000" />
       <workItem from="1665041929089" duration="6587000" />
+      <workItem from="1665077179362" duration="996000" />
     </task>
     <servers />
   </component>
